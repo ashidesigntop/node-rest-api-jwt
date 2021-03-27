@@ -1,4 +1,4 @@
-# node-rest-api-jwt
+# node-rest-api-jwt CRUD operations with JWT
 
 routes
 
